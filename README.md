@@ -10,3 +10,6 @@ Please follow the official syllabus and find the coursework tab for each week. A
 
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
+
+## Markdown format
+This README page is created with [Markdown](https://www.markdownguide.org/getting-started/) format, which is easy to learn [here](https://markdownlivepreview.com/). 
