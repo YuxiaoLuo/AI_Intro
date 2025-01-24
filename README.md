@@ -8,6 +8,15 @@ This course explores artificial intelligence as a transformative tool in busines
 ## Tentative Schedule
 Please follow the official syllabus and find the coursework tab for each week. Any Python code (IPython Notebook file) is available in this GitHub repo.
 
+## Python Demo
+
+- Python Basics
+    - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
+- AI Applications
+    - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
+    - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
+    - [Investment AI Agent System](https://github.com/24mlight/Free_US_Investment_Agent_System)
+
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
 
