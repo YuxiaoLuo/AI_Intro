@@ -8,14 +8,27 @@ This course explores artificial intelligence as a transformative tool in busines
 ## Tentative Schedule
 Please follow the official syllabus and find the coursework tab for each week. Any Python code (IPython Notebook file) is available in this GitHub repo.
 
-## Python Demo
+## Prompting
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Learn Prompting](https://learnprompting.org/docs/introduction)
+- [Prompt Engineering Guide from DAIR.AI](https://www.promptingguide.ai)
 
+## Python Demo
 - Python Basics
     - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
+    - Intro to Analytics
+
 - AI Applications
     - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
     - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
     - [Investment AI Agent System](https://github.com/24mlight/Free_US_Investment_Agent_System)
+
+## API Resources
+Here is the list of all the APIs used in the Intro to AI course. Since we only use free versions of these APIs, some may come with use limit. 
+Please click into each link to obtain the API key for yourself (some may involve free account registration).
+- [Alpha Vantage API](https://www.promptingguide.ai/): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
+- [Google Gemini API](https://aistudio.google.com/): call Gemini LLM API.
+
 
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
