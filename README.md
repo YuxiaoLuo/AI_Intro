@@ -15,15 +15,15 @@ Please follow the official syllabus and find the coursework tab for each week. A
 
 ## Python Demo
 - Python Basics
-    - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
-    - Intro to Analytics
+    - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
+    - [Intro to Analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb)
 
 - AI Applications
-    - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
-    - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
+    - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
+    - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
     - [Investment AI Agent System](https://github.com/24mlight/Free_US_Investment_Agent_System)
 
-## API Resources
+## APIs
 Here is the list of all the APIs used in the Intro to AI course. Since we only use free versions of these APIs, some may come with use limit. 
 Please click into each link to obtain the API key for yourself (some may involve free account registration).
 - [Alpha Vantage API](https://www.promptingguide.ai/): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
