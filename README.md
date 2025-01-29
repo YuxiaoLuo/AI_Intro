@@ -6,7 +6,7 @@ CIS course [AI, Business Systems & Cybersecurity](https://yuxiaoluo.github.io/te
 This course explores artificial intelligence as a transformative tool in business, focusing on practical applications, strategic integration, and ethical considerations. Students will gain insight into AI’s foundational concepts, engage with industry-specific use cases, and analyze AI’s impact on organizational strategy. Through case studies, simulations, and expert talks, students will develop a managerial perspective on AI and learn to leverage AI as a source of competitive advantage.
 
 ## Tentative Schedule
-Please follow the official syllabus and find the coursework tab for each week. Any Python code (IPython Notebook file) is available in this GitHub repo.
+Please follow the official syllabus and find the coursework tab for each week. All Python code (IPython Notebook file) is included in this GitHub repo.
 
 ## Prompting
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -23,12 +23,20 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
     - [Investment AI Agent System](https://github.com/24mlight/Free_US_Investment_Agent_System)
 
-## APIs
-Here is the list of all the APIs used in the Intro to AI course. Since we only use free versions of these APIs, some may come with use limit. 
-Please click into each link to obtain the API key for yourself (some may involve free account registration).
+## AI Model/System
+
+### [Ollama](https://ollama.com/)
+Ollama is a free, open-source tool that allows users to run large language models (LLMs) locally on their computers. Details can be found on their [GitHub Page](https://github.com/ollama/ollama?tab=readme-ov-file)
+
+1. Download Ollama ([Windows](https://ollama.com/download/OllamaSetup.exe)/[macOS](https://ollama.com/download/Ollama-darwin.zip)/[Linux](https://github.com/ollama/ollama/blob/main/docs/linux.md)).
+2. You can use [ollama-python](https://github.com/ollama/ollama-python), the Python library for Ollama, to interact with it.
+3. Let's get started with the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/tutorial_ollama.md).
+
+### APIs
+Here is the list of APIs used in the course. Since we only use free versions of these APIs, some may come with use limit. 
+Please click into each link to obtain the API key for yourself (free account registration is needed).
 - [Alpha Vantage API](https://www.promptingguide.ai/): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
 - [Google Gemini API](https://aistudio.google.com/): call Gemini LLM API.
-
 
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
