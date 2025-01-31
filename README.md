@@ -31,7 +31,7 @@ Ollama is a free, open-source tool that allows users to run large language model
 1. Download Ollama ([Windows](https://ollama.com/download/OllamaSetup.exe)/[macOS](https://ollama.com/download/Ollama-darwin.zip)/[Linux](https://github.com/ollama/ollama/blob/main/docs/linux.md)).
 2. To use the LLMs in Ollama, you can use 
     - [ollama-python](https://github.com/ollama/ollama-python), the Python library for Ollama.
-    - Or use [Command Prompt](https://www.geeksforgeeks.org/what-is-a-command-prompt/) program. Ex., Command Prompt for WindowsOS and Terminal for macOS.
+    - Or use [Command Line](https://en.wikipedia.org/wiki/Command-line_interface#:~:text=A%20command%2Dline%20interface%20(CLI,mode%20available%20with%20punched%20cards.) program. Ex., [Command Prompt](https://www.geeksforgeeks.org/what-is-a-command-prompt/) for WindowsOS and [Terminal](https://www.freecodecamp.org/news/command-line-for-beginners/) for macOS.
 3. Let's get started with the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama.md).
 
 ### APIs
