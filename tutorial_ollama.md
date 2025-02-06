@@ -1,4 +1,5 @@
-# Get Started with Ollama
+# Tutorial: get started with Ollama
+## Author: [Dr. Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 This tutorial inroduces how to use Ollama with the Command Line Program.
 
@@ -50,7 +51,7 @@ For example, on my computer, it shows:
 
 ![ollama_list](data/ollama_list.png)
 
-### Step 4: Run the model
+## Step 4: Run the model
 
 Enter the command below to initiate the AI model
 
@@ -157,7 +158,7 @@ informed decision than just guessing.
 
 You can provide more details if you need a more specific and organized plan.
 
-### Step 5: Available commands in using the model
+## Step 5: Available commands in using the model
 
 There are other commands available to use:
 - `/show info`: Show details for this model
@@ -170,13 +171,16 @@ There are other commands available to use:
 If you are done using the model, you can quit the model:
 
 ```sh
-\bye
+/bye
 ```
-### Others
+## Others
 
-- If you know Python, you can access these Ollama models via Python package `ollama`
-- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a [custom GPT](https://mitsloanedtech.mit.edu/ai/tools/writing/custom-gpts-at-mit-sloan-a-comprehensive-guide/) in ChatGPT GPTs store.
+- If you know Python, you can access these Ollama models via Python package `ollama`. Here is short Jupyter Notebook Script about using `ollama` package in Python.
+- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a [custom GPT](https://mitsloanedtech.mit.edu/ai/tools/writing/custom-gpts-at-mit-sloan-a-comprehensive-guide/) in ChatGPT GPTs store. The official guide of Ollama Model File is [here](https://github.com/ollama/ollama/blob/main/docs/modelfile.md).
 - If you don't like model interaction with Command Line, you can download third party UI software, such [Chatbox](https://github.com/Bin-Huang/Chatbox) and [LMStudio](https://lmstudio.ai/). 
+
+## Build your own AI assistant
+Now, if you are ready, let's head to the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama_python_instructor.md) for creating your personalized AI Python Instructor with Ollama `codellama:7b` model.
 
 ## References
 - How to set up and run DeepSeek R1 locally: https://www.datacamp.com/tutorial/deepseek-r1-ollama
