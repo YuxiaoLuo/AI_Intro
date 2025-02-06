@@ -47,6 +47,7 @@ ollama list
 ```
 
 For example, on my computer, it shows:
+
 ![ollama_list](data/ollama_list.png)
 
 ### Step 4: Run the model
@@ -174,7 +175,7 @@ If you are done using the model, you can quit the model:
 ### Others
 
 - If you know Python, you can access these Ollama models via Python package `ollama`
-- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a custom model on ChatGPT.
+- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a [custom GPT](https://mitsloanedtech.mit.edu/ai/tools/writing/custom-gpts-at-mit-sloan-a-comprehensive-guide/) in ChatGPT GPTs store.
 - If you don't like model interaction with Command Line, you can download third party UI software, such [Chatbox](https://github.com/Bin-Huang/Chatbox) and [LMStudio](https://lmstudio.ai/). 
 
 ## References
