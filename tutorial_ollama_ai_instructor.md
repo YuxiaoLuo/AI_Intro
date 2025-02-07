@@ -88,9 +88,9 @@ Follow the [official guide](https://chatboxai.app/en/help-center/connect-chatbox
 1. You may need to allow the Ollama service port (default 11434) through your firewall, depending on your operating system and network environment.
 2. To avoid security risks, do not expose the Ollama service on public networks. A home WiFi network is a relatively safe environment.
 
-### Step 3: Use Ollama model in Chatbox chatwindow
+### Step 3: Use Ollama model in Chatbox chat window
 
-After deployment, you can use Ollama models in a ChatGPT liked interface now.
+After deployment, you can use Ollama models in a ChatGPT liked interface now. [Here](https://ollama.com/blog/how-to-prompt-code-llama) is an article about how to prompt using `codeLlama`.
 
 ![ollama_chatbox](data/ollama_chatbox.png)
 
@@ -99,3 +99,4 @@ After deployment, you can use Ollama models in a ChatGPT liked interface now.
 - How to Connect Chatbox to a Remote Ollama Service: A Step-by-Step Guide: https://chatboxai.app/en/help-center/connect-chatbox-remote-ollama-service-guide 
 - Get Started with ollama: https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama.md
 - Ollama FAQ: https://github.com/ollama/ollama/blob/main/docs/faq.md
+- How to prompt Code Llama: https://ollama.com/blog/how-to-prompt-code-llama
