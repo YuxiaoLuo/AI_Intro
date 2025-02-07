@@ -82,11 +82,13 @@ I'm using its Web App via this link: https://web.chatboxai.app.
 
 ### Step 2: Connect Chatbox to remote Ollama service
 
-Follow this official guide to set up remote Ollama service, especially focusing on the part of "How to Configure the Remote Ollama Service?"
+Follow the [official guide](https://chatboxai.app/en/help-center/connect-chatbox-remote-ollama-service-guide) to set up remote Ollama service, especially focusing on the part of "How to Configure the Remote Ollama Service?".
 
 #### Reminders
 1. You may need to allow the Ollama service port (default 11434) through your firewall, depending on your operating system and network environment.
 2. To avoid security risks, do not expose the Ollama service on public networks. A home WiFi network is a relatively safe environment.
+
+### Step 3: Use Ollama model in Chatbox chatwindow
 
 After deployment, you can use Ollama models in a ChatGPT liked interface now.
 

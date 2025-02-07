@@ -158,7 +158,7 @@ informed decision than just guessing.
 
 You can provide more details if you need a more specific and organized plan.
 
-## Step 5: Available commands in using the model
+## Step 5: Available commands in using the Model
 
 There are other commands available to use:
 - `/show info`: Show details for this model
@@ -167,12 +167,32 @@ There are other commands available to use:
 - `/show parameters`: Show parameters for this model
 - `/show system`: Show system message
 - `/show template`: Show prompt template
+- For multiline input, you can wrap text with `"""`
+
+```sh
+>>> """Hello,
+... world!
+... """
+I'm a basic program that prints the famous "Hello, world!" message to the console.
+```
 
 If you are done using the model, you can quit the model:
 
 ```sh
 /bye
 ```
+
+## Step 6: Available commands in Command Line Interface
+
+- `ollama pull llama3.2`: pull a model
+- `ollama rm llama3.2`: remove a model
+- `ollama cp llama3.2 my-model`: copy a model
+- `ollama show llama3.2`: show model info
+- `ollama list`: List models on your computer
+- `ollama ps`: list which models are currently loaded
+- `ollama stop llama3.2`: Stop a model which is currently running
+- `ollama serve`: start ollama without running the desktop application
+
 ## Others
 
 - If you know Python, you can access these Ollama models via Python package `ollama`. Here is short Jupyter Notebook Script about using `ollama` package in Python.
@@ -180,7 +200,7 @@ If you are done using the model, you can quit the model:
 - If you don't like model interaction with Command Line, you can download third party UI software, such [Chatbox](https://github.com/Bin-Huang/Chatbox) and [LMStudio](https://lmstudio.ai/). 
 
 ## Build your own AI assistant
-Now, if you are ready, let's head to the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama_python_instructor.md) for creating your personalized AI Python Instructor with Ollama `codellama:7b` model.
+Now, if you are ready, let's head to the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama_ai_instructor.md) for creating your personalized AI Python Instructor with Ollama `codellama:7b` model.
 
 ## References
 - How to set up and run DeepSeek R1 locally: https://www.datacamp.com/tutorial/deepseek-r1-ollama
