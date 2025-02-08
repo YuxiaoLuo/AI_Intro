@@ -1,5 +1,5 @@
 # Tutorial: get started with Ollama
-## Author: [Dr. Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
+## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 This tutorial inroduces how to use Ollama with the Command Line Program.
 

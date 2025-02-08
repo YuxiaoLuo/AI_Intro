@@ -1,5 +1,5 @@
 # Tutorial: build your custom AI with Ollama
-## Author: [Dr. Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
+## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 In this tutorial, we will use [Ollama](https://ollama.com/) to build a custom Python Instructor AI for your own use.
 
