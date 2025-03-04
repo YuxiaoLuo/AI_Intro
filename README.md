@@ -20,6 +20,13 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
     - [Intro to Analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb)
 
+- AI Analytics
+    - [Coding with GenAI](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week5_Tue.ipynb)
+    - [Supervised Learning](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week7_supervised_learning.ipynb)
+    - Resources: 
+        - [Google Data Science Agent](https://labs.google.com/code/dsa)
+        - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
+
 - AI Applications
     - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
     - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
@@ -35,6 +42,7 @@ Ollama is a free, open-source tool that allows users to run large language model
     - [ollama-python](https://github.com/ollama/ollama-python), the Python library for Ollama.
     - Or use [Command Line](https://en.wikipedia.org/wiki/Command-line_interface) program. Ex., [Command Prompt](https://www.geeksforgeeks.org/what-is-a-command-prompt/) for WindowsOS and [Terminal](https://www.freecodecamp.org/news/command-line-for-beginners/) for macOS.
 3. Let's get started with the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama.md).
+4. Read the article: [vulnerabilities in ollama](https://www.oligo.security/blog/more-models-more-probllms)
 
 ### APIs
 Here is the list of APIs used in the course. Since we only use free versions of these APIs, some may come with use limit. 
