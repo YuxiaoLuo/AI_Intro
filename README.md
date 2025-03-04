@@ -35,14 +35,14 @@ Please follow the official syllabus and find the coursework tab for each week. A
 ## LLM System & APIs
 
 ### [Ollama](https://ollama.com/)
-Ollama is a free, open-source tool that allows users to run large language models (LLMs) locally on their computers. Details can be found on their [GitHub Page](https://github.com/ollama/ollama?tab=readme-ov-file)
+Ollama is a free, open-source tool that allows users to run large language models (LLMs) locally on their computers. Details can be found on their [GitHub Page](https://github.com/ollama/ollama?tab=readme-ov-file).
 
 1. Download Ollama ([Windows](https://ollama.com/download/OllamaSetup.exe)/[macOS](https://ollama.com/download/Ollama-darwin.zip)/[Linux](https://github.com/ollama/ollama/blob/main/docs/linux.md)).
 2. To use the LLMs in Ollama, you can use 
     - [ollama-python](https://github.com/ollama/ollama-python), the Python library for Ollama.
     - Or use [Command Line](https://en.wikipedia.org/wiki/Command-line_interface) program. Ex., [Command Prompt](https://www.geeksforgeeks.org/what-is-a-command-prompt/) for WindowsOS and [Terminal](https://www.freecodecamp.org/news/command-line-for-beginners/) for macOS.
 3. Let's get started with the [tutorial](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tutorial_ollama.md).
-4. Read the article: [vulnerabilities in ollama](https://www.oligo.security/blog/more-models-more-probllms)
+4. Please be aware of the security issues of ollama: read the article [vulnerabilities in ollama](https://www.oligo.security/blog/more-models-more-probllms)
 
 ### APIs
 Here is the list of APIs used in the course. Since we only use free versions of these APIs, some may come with use limit. 
