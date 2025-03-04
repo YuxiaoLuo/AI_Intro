@@ -22,7 +22,7 @@ Please follow the official syllabus and find the coursework tab for each week. A
 
 - AI Analytics
     - [Descriptive analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_tue.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_tue.ipynb)
-    - [Diagnostic analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week7_supervised_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb)
+    - [Diagnostic analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb)
     - Resources: 
         - [Google Data Science Agent](https://labs.google.com/code/dsa)
         - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
