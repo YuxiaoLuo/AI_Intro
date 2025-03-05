@@ -34,4 +34,11 @@ Welcome to [Chatbot Name], your intelligent virtual assistant designed to make y
 - ...
 
 ## Complete Chatbot Instruction
+Paste your complete Chatbot Instruction here. For example:
 >This is the instruction for our [Chatbot Name]...
+
+## Customzied Topics
+Introduce each customized topic of your chatbot.
+
+## Customized Actions
+Introduce each customized action of your chatbot.
