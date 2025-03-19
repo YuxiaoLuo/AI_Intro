@@ -49,7 +49,7 @@ Ollama is a free, open-source tool that allows users to run large language model
 ### APIs
 Here is the list of APIs used in the course. Since we only use free versions of these APIs, some may come with use limit. 
 Please click into each link to obtain the API key for yourself (free account registration is needed).
-- [Alpha Vantage API](https://www.promptingguide.ai/): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
+- [Alpha Vantage API](https://www.alphavantage.co/support/#api-key): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
 - [Google Gemini API](https://aistudio.google.com/): call Gemini LLM API.
 
 ## How to download Jupter Notebook File from this Github Repo
