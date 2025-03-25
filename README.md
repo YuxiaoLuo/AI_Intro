@@ -25,11 +25,11 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Diagnostic analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb)
     - [Text mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_1.ipynb)
     - [Text mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb)
+    - [Image mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb)
+    - [Image mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb)
     - Resources: 
         - [Google Data Science Agent](https://labs.google.com/code/dsa)
         - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
-    - [Image mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb)
-    - [Image mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb)
 
 - AI Applications
     - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
