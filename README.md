@@ -2,9 +2,9 @@
 This repo holds the learning materials taught by [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo) and related to the undergraduate 
 CIS course [AI, Business Systems & Cybersecurity](https://yuxiaoluo.github.io/teaching/ai_intro). The materials are co-developed by Youngeui Kim and Yuxiao Luo.
 
-[Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo) is also mataining a weekly AI news digest: [Weekly Major AI Events in 2025](https://yuxiaoluo.github.io/post/ai-events-week/). 
+Here is a weekly AI news digest: [Weekly Major AI Events in 2025](https://yuxiaoluo.github.io/post/ai-events-week/).
 
-## Course Description 
+## Course Description
 This course explores artificial intelligence as a transformative tool in business, focusing on practical applications, strategic integration, and ethical considerations. Students will gain insight into AI’s foundational concepts, engage with industry-specific use cases, and analyze AI’s impact on organizational strategy. Through case studies, simulations, and expert talks, students will develop a managerial perspective on AI and learn to leverage AI as a source of competitive advantage.
 
 ## Tentative Schedule
