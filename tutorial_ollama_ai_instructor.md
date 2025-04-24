@@ -84,9 +84,20 @@ I'm using its Web App via this link: https://web.chatboxai.app.
 
 Follow the [official guide](https://chatboxai.app/en/help-center/connect-chatbox-remote-ollama-service-guide) to set up remote Ollama service, especially focusing on the part of "How to Configure the Remote Ollama Service?".
 
-#### Reminders
-1. You may need to allow the Ollama service port (default 11434) through your firewall, depending on your operating system and network environment.
-2. To avoid security risks, do not expose the Ollama service on public networks. A home WiFi network is a relatively safe environment.
+#### 📝 Security Reminders
+1. ⚙️ You may need to allow the Ollama service port (default 11434) through your firewall, depending on your operating system and network environment. **YOU NEED TO ENSURE THE SECURITY OF YOUR NETWORK BEFORE YOUR DO THAT!!**
+2. ⚠️ To avoid security risks, do not expose the Ollama service on public networks. A home WiFi network is a relatively safe environment.
+3. 🔒 I personally prefer to keep it local: By default, some services might bind to all network interfaces, meaning they listen for connections from anywhere.
+    - Bad: `0.0.0.0:8000` → Accessible from any device that can reach your machine.
+    - Good: `127.0.0.1:8000` or `localhost:8000` → Only accessible from your own machine.
+    - How to Set This:
+        - If Ollama allows specifying a host/IP, make sure it’s `127.0.0.1`.
+        - Example in a config or command line: `ollama serve --host 127.0.0.1 --port 8000`.
+    - Even if you bind to all interfaces (0.0.0.0), use a firewall to block unwanted traffic.
+5. 💡 VPN or SSH Tunnel (For Remote Access Safely): if you really need remote access but want it secure. This way, the API still only listens locally, but you can access it remotely through an encrypted tunnel.
+    - Set up a VPN like WireGuard or OpenVPN.
+    - Or use an SSH tunnel: `ssh -L 8000:localhost:8000 user@your-server`.
+6. This website (https://www.freeollama.com) shows lots of free ollama servers found on the public internet. If you don't handle your local Ollama service securely, it may appear on it.
 
 ### Step 3: Use Ollama model in Chatbox chat window
 
