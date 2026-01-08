@@ -2,7 +2,7 @@
 This repo holds the learning materials taught by [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo) and related to the undergraduate 
 INFS course [Advanced Data Analytics and AI](https://yuxiaoluo.github.io/teaching/ai_analytics).
 
-Here are the weekly AI news digests: 
+Want to keep up with AI technology developments? Check out the weekly AI news digests:
 - [Weekly Digest of AI Events in 2026](https://yuxiaoluo.github.io/post/ai-events-weekly-2026/)
 - [Weekly Digest of AI Events in 2025](https://yuxiaoluo.github.io/post/ai-events-weekly-2025/).
 
@@ -23,8 +23,8 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Intro to Analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb)
 
 - AI Analytics
-    - [Descriptive analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_tue.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_tue.ipynb)
-    - [Diagnostic analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_thu.ipynb)
+    - [Descriptive analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_descriptive_week5_1.ipynb)
+    - [Diagnostic analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/ai_analytics_diagnostic_week5_2.ipynb)
     - [Text mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_1.ipynb)
     - [Text mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb)
     - [Image mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb)
