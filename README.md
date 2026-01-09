@@ -55,6 +55,16 @@ Please click into each link to obtain the API key for yourself (free account reg
 - [Alpha Vantage API](https://www.alphavantage.co/support/#api-key): fetch news for LLM to do sentiment analysis from AlphaVantage, they provide free stock API service covering the majority of their datasets for up to 25 requests per day.
 - [Google Gemini API](https://aistudio.google.com/): call Gemini LLM API.
 
+## Agentic AI
+
+### [n8n](https://github.com/n8n-io/n8n)
+n8n is a workflow automation platform that enables the development of agentic AI systems. It supports the construction of AI agents and retrieval-augmented generation (RAG) pipelines through extensive, highly flexible integrations with a wide range of software tools.
+
+1. [Self-hosted AI Starter Kit](https://docs.n8n.io/hosting/starter-kits/ai-starter-kit/).
+2. Usecase 1 - [Chat with a database using AI](https://n8n.io/workflows/2090-chat-with-a-database-using-ai/).
+3. Usecase 2 - [Automated competitor pricing monitor with Bright Data MCP & OpenAI](https://n8n.io/workflows/5948-automated-competitor-pricing-monitor-with-bright-data-mcp-and-openai/)
+4. Usecase 3 - [Generate funny AI videos with Sora 2 and auto-publish to TikTok](https://n8n.io/workflows/10212-generate-funny-ai-videos-with-sora-2-and-auto-publish-to-tiktok/)
+
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
 
