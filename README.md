@@ -65,6 +65,12 @@ n8n is a workflow automation platform that enables the development of agentic AI
 3. Usecase 2 - [Automated competitor pricing monitor with Bright Data MCP & OpenAI](https://n8n.io/workflows/5948-automated-competitor-pricing-monitor-with-bright-data-mcp-and-openai/)
 4. Usecase 3 - [Generate funny AI videos with Sora 2 and auto-publish to TikTok](https://n8n.io/workflows/10212-generate-funny-ai-videos-with-sora-2-and-auto-publish-to-tiktok/)
 
+### [Google Opal](https://opal.google/)
+Google Opal is a no-code agentic AI platform for creating mini-AI apps. It connects AI models (like Gemini) with tools and prompts to automate tasks and create content without writing code. Users create visual workflows with steps like user input, generative AI, and outputs (which can go to Docs/Sheets), then publish them as shareable web apps for personal or collaborative use.
+
+1. Tutorial 1 - [A beginner's guide to to Google opal](https://www.datacamp.com/tutorial/google-opal-tutorial)
+2. Tutorial 2 - [Official Guide from Google Labs](https://developers.google.com/opal/overview)
+
 ## How to download Jupter Notebook File from this Github Repo
 Click this [instruction](https://github.com/YuxiaoLuo/Intro_Python/blob/main/How_to_download_JupyterNotebook.md).
 
