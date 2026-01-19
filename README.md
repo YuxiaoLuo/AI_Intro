@@ -31,7 +31,7 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Image mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb)
     - [Image mining 3 - video detection](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_3_video.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_3_video.ipynb)
     - [Image mining 4 - customized model](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_4_customized.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_4_customized.ipynb)
-    - [Image mining 4 - realtime object](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)
+    - [Image mining 5 - realtime object](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)
     - Resources: 
         - [Google Data Science Agent](https://labs.google.com/code/dsa)
         - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
