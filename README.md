@@ -29,6 +29,8 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Text mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week10_TextMining_2.ipynb)
     - [Image mining 1](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_1.ipynb)
     - [Image mining 2](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_2.ipynb)
+    - [Image mining 3 - video detection](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_Customized_ImageMining_1.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_Customized_ImageMining_1.ipynb)
+    - [Image mining 4 - customized model](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_Customized_ImageMining_1.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_Customized_ImageMining_1.ipynb)
     - Resources: 
         - [Google Data Science Agent](https://labs.google.com/code/dsa)
         - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
