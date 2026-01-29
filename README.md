@@ -33,8 +33,11 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Image mining 4 - customized model](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_4_customized.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_4_customized.ipynb)
     - [Image mining 5 - realtime object](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/week11_ImageMining_5_realtime.ipynb)
     - Resources: 
-        - [Google Data Science Agent](https://labs.google.com/code/dsa)
+        - [Generative AI Data Scientist](https://github.com/business-science/awesome-generative-ai-data-scientist)
         - [LLM Token Estimator](https://tiktokenizer.vercel.app/)
+        - [Open-source LLM in Python: `langchain-ollama`](https://reference.langchain.com/python/integrations/langchain_ollama/)
+        - [Open-source LLM in R: `rollama`](https://jbgruber.github.io/rollama/articles/annotation.html)
+        - [LLM in R: `tidyllm`](https://edubruell.github.io/tidyllm/articles/tidyllm.html)
 
 - AI Applications
     - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
