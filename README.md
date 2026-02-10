@@ -3,7 +3,6 @@ This repo holds the learning materials taught by [Yuxiao (Rain) Luo](https://git
 INFS course [Advanced Data Analytics and AI](https://yuxiaoluo.github.io/teaching/ai_analytics).
 
 Want to keep up with AI technology developments? Check out the weekly AI news digests:
-- [Weekly Digest of AI Events in 2026](https://yuxiaoluo.github.io/post/ai-events-weekly-2026/)
 - [Weekly Digest of AI Events in 2025](https://yuxiaoluo.github.io/post/ai-events-weekly-2025/).
 
 ## Course Description
