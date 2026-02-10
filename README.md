@@ -17,7 +17,7 @@ Please follow the official syllabus and find the coursework tab for each week. A
 - [Learn Prompting](https://learnprompting.org/docs/introduction)
 - [Prompt Engineering Guide from DAIR.AI](https://www.promptingguide.ai)
 
-## Python Demo
+## Coding Demo
 - Python Basics
     - [Data Type and Structures](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_type_structure.ipynb)
     - [Intro to Analytics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/python_analytics.ipynb)
