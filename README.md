@@ -1,5 +1,5 @@
 # Introduction to AI
-This repo holds the learning materials taught by [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo) and related to the undergraduate 
+This repo holds the learning materials taught by [Yuxiao (Rain) Luo](https://yuxiaoluo.github.io/) and related to the undergraduate 
 INFS course [Advanced Data Analytics and AI](https://yuxiaoluo.github.io/teaching/ai_analytics).
 
 Want to keep up with AI technology developments? Check out the weekly AI news digests:
