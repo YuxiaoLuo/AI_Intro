@@ -157,8 +157,8 @@ You can ignore wallet setup entirely.
 ## 10) Example OpenClaw prompts
 
 - “Use PolyClaw to show trending markets.”
-- “Search Polymarket for ‘China’.”
-- “Get full details for market 701290.”
+- “Search Polymarket for ‘NFL’.”
+- “Get full details for market 654415.”
 
 ---
 
