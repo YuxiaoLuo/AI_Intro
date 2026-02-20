@@ -62,6 +62,13 @@ Please click into each link to obtain the API key for yourself (free account reg
 
 ## Agentic AI
 
+### [OpenClaw](https://github.com/openclaw/openclaw)
+OpenClaw is a personal AI assistant that runs on your own devices and integrates directly into messaging platforms like WhatsApp, Telegram, Slack, Discord, Teams, and more, so you can interact with it through the channels you already use. It operates locally and continuously, with voice support on macOS, iOS, and Android, plus a live Canvas interface you can control, while the Gateway serves only as the control plane behind the assistant. Setup is easiest through the terminal onboarding wizard (`openclaw onboard`), which walks you through configuring the gateway, channels, and skills, and it supports subscriptions like Anthropic Claude and OpenAI models for advanced capabilities.
+
+1. Usecase 1 - [Automated Quant Finance alpha model](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_agent/quant_finance/instructions.md)
+2. Usecase 2 - [PolyMarket trader agent](https://github.com/YuxiaoLuo/AI_Intro/blob/main/ai_agent/pred_market/openclaw_polyclaw.md)
+
+
 ### [n8n](https://github.com/n8n-io/n8n)
 n8n is a workflow automation platform that enables the development of agentic AI systems. It supports the construction of AI agents and retrieval-augmented generation (RAG) pipelines through extensive, highly flexible integrations with a wide range of software tools.
 
