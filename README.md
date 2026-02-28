@@ -62,6 +62,11 @@ Please click into each link to obtain the API key for yourself (free account reg
 
 ## Agentic AI
 
+### [Agent Skills](https://agentskills.io/home)
+Agent Skills provide an open, discoverable standard for extending AI agents with new capabilities. A skill packages instructions, scripts, and supporting resources into a structured format that agents can load to perform specific tasks.
+At the core of each skill is a folder anchored by a `SKILL.md` file. This file defines metadata and step-by-step procedural guidance that instructs the agent how to execute a particular workflow. By standardizing how tasks are described and performed, skills enable reusable, consistent, and reliable task execution.
+Skills give agents on-demand access to domain expertise and contextual knowledge, helping bridge capability gaps and support repeatable, auditable workflows across compatible platforms. Because the format is open and portable, skill creators can build capabilities once and deploy them across multiple agents—while preserving organizational knowledge in version-controlled, shareable packages.
+
 ### [OpenClaw](https://github.com/openclaw/openclaw)
 OpenClaw is a personal AI assistant that runs on your own devices and integrates directly into messaging platforms like WhatsApp, Telegram, Slack, Discord, Teams, and more, so you can interact with it through the channels you already use. It operates locally and continuously, with voice support on macOS, iOS, and Android, plus a live Canvas interface you can control, while the Gateway serves only as the control plane behind the assistant. Setup is easiest through the terminal onboarding wizard (`openclaw onboard`), which walks you through configuring the gateway, channels, and skills, and it supports subscriptions like Anthropic Claude and OpenAI models for advanced capabilities.
 
