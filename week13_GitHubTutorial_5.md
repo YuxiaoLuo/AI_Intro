@@ -8,7 +8,7 @@ Now, let's connect the directory you made to GitHub. GitHub is a service that al
 
 1. Go to GitHub in your browser and click the plus sign in the upper right hand corner.
 
-![You can find the plus sign button to add a repo on the top right of github](../data/image_tutorial/addrepo.png)
+![You can find the plus sign button to add a repo on the top right of github](data/image_tutorial/addrepo.png)
 
 2. After clicking the plus button, select `New repository` from the dropdown menu.
 
