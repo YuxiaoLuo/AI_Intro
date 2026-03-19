@@ -66,6 +66,6 @@ If you see output like this, go back to your new repository page in the browser 
 
 ---
 
-← [03-Creating a Syllabus File](week13_GitHubTutorial_3.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[05-Staging and Committing Changes](week13_GitHubTutorial_4.md) →
+← [04-Staging and Committing Changes](week13_GitHubTutorial_4.md) &nbsp;&nbsp;&nbsp;
 
 ##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/sections/03-review-of-the-command-line.md). The author was a member of the organization.
