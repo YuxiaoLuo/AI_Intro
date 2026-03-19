@@ -14,7 +14,7 @@ Now, let's connect the directory you made to GitHub. GitHub is a service that al
 
 3. After clicking `New repository`, you'll have to enter some information, including a name and description for your repository.
 
-![Screen on GitHub where you enter your repository information](../data/image_tutorial/createrepo2.png)
+![Screen on GitHub where you enter your repository information](data/image_tutorial/createrepo2.png)
 
 - Choose a name, such as `git-practice`.
 - Enter a description, such as `Test syllabus for learning Git and GitHub`.
@@ -26,7 +26,7 @@ You should end up inside your newly created git-practice repo. It will look like
 
 The instructions we want consist of three lines underneath the heading `...or push an existing repository from the command line`. The arrow in this screenshot points to where these directions are on the page:
 
-![The commands you need to copy from the new repo page on GitHub](../data/image_tutorial/connect-repo.png)
+![The commands you need to copy from the new repo page on GitHub](data/image_tutorial/connect-repo.png)
 
 Copy out the first command and paste it in your terminal. It should look something like this:
 

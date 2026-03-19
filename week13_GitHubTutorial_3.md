@@ -41,7 +41,7 @@ $ code syllabus.md
 
 You should see a window appear that looks similar to this:
 
-![Image of what Visual Studio Code looks like when opening the syllabus.md file](../data/image_tutorial/vscode1.png)
+![Image of what Visual Studio Code looks like when opening the syllabus.md file](data/image_tutorial/vscode1.png)
 
 If Visual Studio Code does not open when you use the `code` command in your terminal, open it using the Start Menu on Windows or Spotlight Search on macOS as you would any other software. Then click `File > Open File` and use the dialog to navigate to the `/Users/<your-name>/Desktop/projects/git` folder and create a `syllabus.md` file there.
 
