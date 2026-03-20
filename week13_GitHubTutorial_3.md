@@ -1,4 +1,4 @@
-# Tutorial on Git & GitHub 3
+# Tutorial on Git & GitHub 03
 ## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 ---
@@ -60,4 +60,4 @@ If you’re not familiar with Markdown (.md) formatting, don’t worry—simply 
 
 ← [02-Setting Up Git](week13_GitHubTutorial_2.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[04-Staging and Committing Changes](week13_GitHubTutorial_4.md) →
 
-##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/sections/03-review-of-the-command-line.md). The author was a member of the organization.
+##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/README.md). The author was a member of the organization.

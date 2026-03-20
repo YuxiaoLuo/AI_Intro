@@ -1,4 +1,4 @@
-# Tutorial on Git & GitHub 1
+# Tutorial on Git & GitHub 01
 ## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 ## Learning Git Basics

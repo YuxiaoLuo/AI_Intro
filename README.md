@@ -42,6 +42,20 @@ Please follow the official syllabus and find the coursework tab for each week. A
     - [Text-to-Speech (tts)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/tts/tts_kokoro.ipynb)
     - [LLM (Google Gemini)](https://github.com/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuxiaoLuo/AI_Intro/blob/main/google_gemini.ipynb)
 
+## Git & GitHub Tutorials
+
+- [00 Review of Command Line](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_0.md)
+
+- [01 Learning Git Basics](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_1.md)
+
+- [02 Setting Up Git](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_2.md)
+
+- [03 Creating a Syllabus File](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_3.md)
+
+- [04 Staging and Committing Changes](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_4.md)
+
+- [Pushing to GitHub](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_5.md)
+
 ## LLM System & APIs
 
 ### [Ollama](https://ollama.com/)

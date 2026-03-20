@@ -1,4 +1,4 @@
-# Tutorial on Git & GitHub 4
+# Tutorial on Git & GitHub 04
 ## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 ---
@@ -180,4 +180,4 @@ Which best describes the `-m` flag used when committing changes to a file?
 
 ← [03-Creating a Syllabus File](week13_GitHubTutorial_3.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[05-Pushing to GitHub](week13_GitHubTutorial_5.md) →
 
-##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/sections/03-review-of-the-command-line.md). The author was a member of the organization.
+##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/README.md). The author was a member of the organization.

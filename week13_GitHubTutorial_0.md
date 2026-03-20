@@ -1,4 +1,4 @@
-# Tutorial on Git & GitHub 0
+# Tutorial on Git & GitHub 00
 ## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 In this hands-on tutorial of Git & GitHub, we will create a Syllabus in our computer and sync it to a GitHub repository.
@@ -139,4 +139,4 @@ Which command do you use to check where you are?
 
 ← [Course Home Page](https://github.com/YuxiaoLuo/AI_Intro)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[01-Learning Git Basics](week13_GitHubTutorial_1.md) →
 
-##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/sections/03-review-of-the-command-line.md). The author was a member of the organization.
+##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/README.md). The author was a member of the organization.

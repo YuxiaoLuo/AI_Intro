@@ -1,4 +1,4 @@
-# Tutorial on Git & GitHub 5
+# Tutorial on Git & GitHub 05
 ## Author: [Yuxiao (Rain) Luo](https://github.com/YuxiaoLuo)
 
 ---
@@ -68,4 +68,4 @@ If you see output like this, go back to your new repository page in the browser 
 
 ← [04-Staging and Committing Changes](week13_GitHubTutorial_4.md) &nbsp;&nbsp;&nbsp;
 
-##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/sections/03-review-of-the-command-line.md). The author was a member of the organization.
+##### Note: this tutorial is largely accommodated from a [CUNY GCDI workshop](https://github.com/DHRI-Curriculum/git/blob/v2.0/README.md). The author was a member of the organization.
