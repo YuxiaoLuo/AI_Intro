@@ -196,7 +196,7 @@ If you are done using the model, you can quit the model:
 ## Others
 
 - If you know Python, you can access these Ollama models via Python package `ollama`. Here is short Jupyter Notebook Script about using `ollama` package in Python.
-- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a [custom GPT](https://mitsloanedtech.mit.edu/ai/tools/writing/custom-gpts-at-mit-sloan-a-comprehensive-guide/) in ChatGPT GPTs store. The official guide of Ollama Model File is [here](https://github.com/ollama/ollama/blob/main/docs/modelfile.md).
+- If you are interested in customizing an open-source model with System Prompt, you can create an Ollama `Modelfile` with instructions and model parameter tuning. Like a [custom GPT](https://mitsloanedtech.mit.edu/ai/tools/writing/custom-gpts-at-mit-sloan-a-comprehensive-guide/) in ChatGPT GPTs store. The official guide of Ollama Model File is [here](https://docs.ollama.com/modelfile).
 - If you don't like model interaction with Command Line, you can download third party UI software, such [Chatbox](https://github.com/Bin-Huang/Chatbox) and [LMStudio](https://lmstudio.ai/). 
 
 ## Build your own AI assistant
