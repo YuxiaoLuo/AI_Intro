@@ -54,7 +54,7 @@ Please follow the official syllabus and find the coursework tab for each week. A
 
 - [04 Staging and Committing Changes](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_4.md)
 
-- [Pushing to GitHub](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_5.md)
+- [05 Pushing to GitHub](https://github.com/YuxiaoLuo/AI_Intro/blob/main/week13_GitHubTutorial_5.md)
 
 ## LLM System & APIs
 
