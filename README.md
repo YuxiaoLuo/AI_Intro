@@ -92,6 +92,7 @@ Skills give agents on-demand access to domain expertise and contextual knowledge
 
 - [00 What are agent skills](/week15_AgentSkills00.md)
 - [01 How to construct agent skills](/week15_AgentSkills01.md)
+- [02 Example skills - see what's possible](https://github.com/anthropics/skills)
 
 ### AI Agents (open- and closed-source)
 
