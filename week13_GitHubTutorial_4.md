@@ -121,7 +121,7 @@ The `-m` flag is useful for human purposes and technical purposes. For human pur
 
 Also, if you type `git commit` by itself, git will open the command line's default text editor to allow you to enter the commit message in a file-like environment. It looks something like this:
 
-![Example of what the vi screen looks like](../data/image_tutorial/vi.png)
+![Example of what the vi screen looks like](/data/image_tutorial/vi.png)
 
 This unfamiliar screen is the default text editor, `vi`, and it requires some knowledge to use. We don't teach it as part of our sessions, but if you find yourself stuck in this screen, you can try this trick to leave that environment and return to your usual command prompt. Type `:q` and then press <kbd>enter</kbd>. You should be back to the command line with a message saying:
 
