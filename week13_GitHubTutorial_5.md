@@ -50,7 +50,9 @@ git push -u origin main
 
 If you have not used git before, you will need to authenticate with GitHub, and a window will pop up asking you to sign in. Click `Sign in with your browser`.
 
-Your browser should open a window asking you to "Authorize Git Credential Manager." Click the green `Authorize GitCredentialManager` button:
+Your browser should open a window asking you to "Authorize Git Credential Manager." Click the green `Authorize GitCredentialManager` button.
+
+> GitHub no longer supports password authentication. This browser-based sign-in is the recommended and easiest way to authenticate.
 
 You should see a message that authentication succeeded. If so, you may now close the browser window and return to the command line, where you should see output like this:
 
